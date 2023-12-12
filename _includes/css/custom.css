@@ -20,12 +20,12 @@
 }
 
 /* Some left and right padding inside the container */
-.container {
+.container-card {
   padding: 0 16px;
 }
 
 /* Clear floats */
-.container::after, .row::after {
+.container-card::after, .row::after {
   content: "";
   clear: both;
   display: table;
