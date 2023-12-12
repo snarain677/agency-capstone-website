@@ -60,13 +60,6 @@
   user-select: none;
 }
 
-.prev {
-  position: absolute;
-  left: 0;
-  border-radius: 3px 0 0 3px;
-}
-
-
 .next {
   position: absolute;
   right: 0;
