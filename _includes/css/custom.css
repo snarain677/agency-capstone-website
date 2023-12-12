@@ -35,10 +35,6 @@
   color: grey;
 }
 
-.slideshow-container {
-  position: relative;
-}
-
 .mySlides {
   display: none;
   padding: 80px;
