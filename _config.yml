@@ -15,7 +15,7 @@ footer: Eye Robot
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/gsambhav/capstone-ssm 
 
 # Build settings
 markdown: kramdown
